@@ -4,3 +4,20 @@ Gemfile.lock
 pkg/*
 tmp/*
 zookeeper/*
+
+# mac / IDE
+.project
+.settings
+nbproject
+.idea
+.DS_Store
+
+# other ruby-specific files
+coverage/
+pkg/
+.yardoc
+.bundle
+Gemfile.lock
+.autotest
+rspec_results.html
+spec/rspec_results.html
